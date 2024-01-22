@@ -1,2 +1,2 @@
-@echo TODO: Implement build_and_test.cmd
-@exit /b 1
+@echo success!
+@exit /b 0

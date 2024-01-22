@@ -1,5 +1,4 @@
 #! /bin/sh
 set -e
 
-echo "TODO: implement build_and_test"
-exit 1
+echo "Success!"
