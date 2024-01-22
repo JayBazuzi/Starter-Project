@@ -1,0 +1,9 @@
+version: 2
+
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: "daily"
+  commit-message:
+    prefix: "@ r " # https://github.com/RefactoringCombos/ArlosCommitNotation/pull/43
